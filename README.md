@@ -1,5 +1,5 @@
 ### Sobre
-Esse projeto utiliza React e Vite para consumir a API Java Spring
+Esse projeto utiliza React e Vite para consumir a API Java Spring disponível em https://github.com/VinterCardoso/Spring-api
 
 ### Passos para utilização
 
